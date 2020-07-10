@@ -5,10 +5,11 @@ I'm Madson Dias, I'm from Fortaleza, Ceará, Brazil. I have an MSc degree (2017)
 
 
 - 🔭 I'm currently working with trajectory anomaly detection using flow-based generative models
+- 📝 My most recent paper: [Anomaly Detection in Trajectory Data with Normalizing Flows](https://arxiv.org/abs/2004.05958)
 - 🌱 I'm currently learning about trajectory  data,  anomaly  detection, and normalizing  flows
 - 💬 Ask me about Python, data science, and machine learning
 - ⚡ Fun fact: I have color blindness and heterochromia
-- 📝 My most recent paper: [Anomaly Detection in Trajectory Data with Normalizing Flows](https://arxiv.org/abs/2004.05958)
+
 
 
 [![Twitter URL](https://img.shields.io/static/v1?message=@omadson&label=&nbsp;&color=1ca0f1&style=flat-square&logo=twitter&labelColor=1ca0f1&logoColor=white)](http://twitter.com/omadson/) [![Gmail URL](https://img.shields.io/static/v1?message=madsonddias@gmail.com&label=&nbsp;&color=red&style=flat-square&logo=gmail&labelColor=red&logoColor=white)](mailto:madsonddias@gmail.com?subject=Github%20contact&body=Greetings%2C%0D%0A%0D%0AI%20found%20your%20profile%20on%20Github.%20My%20name%20is%20so-and-so%20and%20I%20would%20like%20to%20talk%20about%20...%0D%0A ) [![Researchgate URL](https://img.shields.io/static/v1?message=Madson%20Dias&label=&nbsp;&color=888&style=flat-square&logo=researchgate&labelColor=888&logoColor=white)](https://www.researchgate.net/profile/Madson_Dias) [![Scholar URL](https://img.shields.io/static/v1?message=Madson%20Dias&label=&nbsp;&color=4285F4&style=flat-square&logo=google-scholar&labelColor=4285F4&logoColor=white)](https://scholar.google.com.br/citations?user=xpfLTYQAAAAJ&hl=en)
