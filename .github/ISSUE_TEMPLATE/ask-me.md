@@ -1,0 +1,10 @@
+---
+name: Ask me
+about: Ask me about Python, data science, and machine learning.
+title: ''
+labels: question
+assignees: omadson
+
+---
+
+Make a good question about Python data science or machine learning.
