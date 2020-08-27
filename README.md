@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** degree (2017) in **Computer Science** from Federal Institute of Ceará (IFCE) and currently, **I'm pursuing a doctorate** in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the [**Logic and Artificial Intelligence Research Group**](http://www.lia.ufc.br/~logia/) (LogIA) at the Department of Computer Science, UFC.
+I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** degree (2017) in **Computer Science** from Federal Institute of Ceará (IFCE) and currently, **I'm pursuing a doctorate** in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the [**Logic and Artificial Intelligence Research Group**](http://www.lia.ufc.br/~logia/index.en.html) (LogIA) at the Department of Computer Science, UFC.
 
 
 
-- 🔭 I'm currently working with **trajectory anomaly detection using flow-based generative models**
-- 📝 My most recent paper: [Anomaly Detection in Trajectory Data with Normalizing Flows](https://arxiv.org/abs/2004.05958)
-- 🌱 I'm currently learning about **trajectory  data**,  **anomaly  detection**, and **normalizing  flows**
-- 💬 Ask me about **Python**, **data science**, and **machine learning**
-- ⚡ Fun fact: I have color **blindness** and **heterochromia**
+- :telescope: I'm currently working with **trajectory anomaly detection using flow-based generative models**
+- :page_facing_up: My most recent paper: [Anomaly Detection in Trajectory Data with Normalizing Flows](https://arxiv.org/abs/2004.05958)
+- :seedling: I'm currently learning about **trajectory  data**,  **anomaly  detection**, and **normalizing  flows**
+- :mailbox: [Ask me](https://github.com/omadson/omadson/issues/new/choose) about **Python**, **data science**, and **machine learning**
+- :heart: Things that I like: [cycling](http://bit.ly/strava-omadson), [photography](http://bit.ly/instagram-omadson), [coffee](https://www.instagram.com/omadson/channel/) and [reading](http://bit.ly/skoob-omadson).
+- :eyes: Fun fact: I have color **blindness** and **heterochromia**
+
 
 
 
