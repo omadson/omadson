@@ -1,5 +1,5 @@
 ---
-name: Ask Madson
+name: Ask me something
 about: Ask me about Python, data science, and machine learning.
 title: ''
 labels: question
