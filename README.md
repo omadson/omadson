@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** degree (2017) in **Computer Science** from Federal Institute of Ceará and currently, **I'm pursuing a doctorate** in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the [**Logic and Artificial Intelligence Research Group**](http://www.lia.ufc.br/~logia/index.en.html) (LogIA) at the Department of Computer Science, UFC.
+I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** degree (2017) in **Computer Science** from Federal Institute of Ceará and currently, **I'm pursuing a doctorate** in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the **Logic and Artificial Intelligence Research Group** ([LogIA](http://www.lia.ufc.br/~logia/index.en.html)) at the Department of Computer Science, UFC.
 
 
 
@@ -8,7 +8,7 @@ I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** d
 - :page_facing_up: My most recent paper: [Anomaly Detection in Trajectory Data with Normalizing Flows](https://arxiv.org/abs/2004.05958)
 - :seedling: I'm currently learning about **trajectory  data**,  **anomaly  detection**, and **normalizing  flows**
 - :mailbox: [Ask me](https://github.com/omadson/omadson/issues/new/choose) about **Python**, **data science**, and **machine learning**
-- :heart: Things that I like: [cycling](http://bit.ly/strava-omadson), [photography](http://bit.ly/instagram-omadson), [coffee](https://www.instagram.com/omadson/channel/) and [reading](http://bit.ly/skoob-omadson).
+- :heart: Things that I like: [cycling](http://bit.ly/strava-omadson), [photography](http://bit.ly/photos-omadson), [coffee](https://www.instagram.com/omadson/channel/) and [reading](https://www.skoob.com.br/usuario/3962191).
 - :eyes: Fun fact: I have color **blindness** and **heterochromia**
 
 
