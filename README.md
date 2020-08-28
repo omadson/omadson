@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** degree (2017) in **Computer Science** from Federal Institute of Ceará (IFCE) and currently, **I'm pursuing a doctorate** in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the [**Logic and Artificial Intelligence Research Group**](http://www.lia.ufc.br/~logia/index.en.html) (LogIA) at the Department of Computer Science, UFC.
+I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** degree (2017) in **Computer Science** from Federal Institute of Ceará and currently, **I'm pursuing a doctorate** in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the [**Logic and Artificial Intelligence Research Group**](http://www.lia.ufc.br/~logia/index.en.html) (LogIA) at the Department of Computer Science, UFC.
 
 
 
