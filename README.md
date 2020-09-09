@@ -8,9 +8,10 @@ I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** d
 - :page_facing_up: My most recent paper: [Anomaly Detection in Trajectory Data with Normalizing Flows](https://arxiv.org/abs/2004.05958)
 - :seedling: I'm currently learning about **trajectory  data**,  **anomaly  detection**, and **normalizing  flows**
 - :mailbox: [Ask me](https://github.com/omadson/omadson/issues/new/choose) about **Python**, **data science**, and **machine learning**
-- :heart: Things that I like: [cycling](http://bit.ly/strava-omadson), [photography](http://bit.ly/photos-omadson), [coffee](https://www.instagram.com/omadson/channel/) and [reading](https://www.skoob.com.br/usuario/3962191).
+- :heart: Things that I like: [cycling](http://bit.ly/strava-omadson), [photography](http://bit.ly/photos-omadson), [coffee](https://www.instagram.com/omadson/channel/) and [reading](https://www.skoob.com.br/usuario/3962191)
 - :eyes: Fun fact: I have **color blindness** and **heterochromia**
-- :mortar_board: Check out [my curriculum](http://bit.ly/omadson-cv) (in pt-br).
+- :mortar_board: Check out [my curriculum](http://bit.ly/omadson-cv) (in pt-br)
+- :coffee: Buy me a coffee: [[picpay](http://bit.ly/picpay-omadson-5)], [[nubank](http://bit.ly/nubank-omadson-5)]
 
 
 
