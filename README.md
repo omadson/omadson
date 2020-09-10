@@ -11,7 +11,7 @@ I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** d
 - :heart: Things that I like: [cycling](http://bit.ly/strava-omadson), [photography](http://bit.ly/photos-omadson), [coffee](https://www.instagram.com/omadson/channel/) and [reading](https://www.skoob.com.br/usuario/3962191)
 - :eyes: Fun fact: I have **color blindness** and **heterochromia**
 - :mortar_board: Check out [my curriculum](http://bit.ly/omadson-cv) (in pt-br)
-- :coffee: Buy me a coffee: [[picpay](http://bit.ly/picpay-omadson-5)]
+- :coffee: [Buy me a coffee](http://omadson.github.io/buy-me-a-coffee)
 
 
 
