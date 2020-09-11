@@ -4,7 +4,7 @@ I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** d
 
 
 
-- :telescope: I'm currently working with **trajectory anomaly detection using flow-based generative models**
+- :telescope: I'm currently working with **trajectory anomaly detection** using **flow-based generative models**
 - :page_facing_up: My most recent paper: [Anomaly Detection in Trajectory Data with Normalizing Flows](https://arxiv.org/abs/2004.05958)
 - :seedling: I'm currently learning about **trajectory  data**,  **anomaly  detection**, and **normalizing  flows**
 - :mailbox: [Ask me](https://github.com/omadson/omadson/issues/new/choose) about **Python**, **data science**, and **machine learning**
