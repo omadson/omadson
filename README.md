@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** degree (2017) in **Computer Science** from Federal Institute of Ceará and currently, **I'm pursuing a doctorate** in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the **Logic and Artificial Intelligence Research Group** ([LogIA](http://www.lia.ufc.br/~logia/index.en.html)) at the Department of Computer Science, UFC. There I work under the supervision of Prof. [César Lincoln Cavalcante Mattos](https://scholar.google.com.br/citations?user=j4eDQHcAAAAJ&hl=pt-BR).
-
+I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** degree (2017) in **Computer Science** from Federal Institute of Ceará and currently, **I'm pursuing a doctorate** in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the **Logic and Artificial Intelligence Research Group** ([LogIA](http://www.lia.ufc.br/~logia/index.en.html)) at the Department of Computer Science, UFC. There I work under the supervision of Prof. [César Lincoln Cavalcante Mattos](https://scholar.google.com/citations?user=DCKOV4oAAAAJ&hl=en&oi=ao).
 
 
 - :seedling: At the present moment I'm learning about **normalizing  flows**, **anomaly  detection**, and **semi-supervised learning**
