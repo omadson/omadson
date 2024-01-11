@@ -7,7 +7,7 @@ I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** d
 - :telescope: I'm currently working with **trajectory anomaly detection** using **flow-based generative models**
 - :page_facing_up: My most recent paper: [Anomaly Detection in Trajectory Data with Normalizing Flows](https://arxiv.org/abs/2004.05958)
 - :mailbox: [Ask me](https://github.com/omadson/omadson/issues/new/choose) about **Python**, **data science**, and **machine learning**
-- :heart: Things that I like: [cycling](http://bit.ly/strava-omadson), [photography](http://bit.ly/photos-omadson), [coffee](https://www.instagram.com/omadson/channel/) and [reading](https://www.skoob.com.br/usuario/3962191)
+- :heart: Things that I like: [coffee](https://www.instagram.com/omadson/channel/), [vinyl](https://www.discogs.com/user/omadson/collection), [cycling](http://bit.ly/strava-omadson), [photography](http://bit.ly/photos-omadson), [retro games](https://retroachievements.org/user/omadson/progress?filter%5Bsystem%5D=0&filter%5Bstatus%5D=any-beaten&page%5Bnumber%5D=1) and [reading](https://www.skoob.com.br/usuario/3962191)
 - :eyes: Fun fact: I have **color blindness** and **heterochromia**
 <!-- - :mortar_board: Check out [my curriculum](http://bit.ly/omadson-cv) (in pt-br) -->
 <!-- - :coffee: Buy me a coffee! -->
