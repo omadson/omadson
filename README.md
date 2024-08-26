@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm **Madson Dias**, I'm from Fortaleza, Ceará, **Brazil**. I have an **MSc** degree (2017) in **Computer Science** from Federal Institute of Ceará and currently, **I'm pursuing a doctorate** in **Computer Science** at Federal University of Ceará (UFC). I'm an **associate researcher** at the **Logic and Artificial Intelligence Research Group** ([LogIA](http://www.lia.ufc.br/~logia/index.en.html)) at the Department of Computer Science, UFC. There I work under the supervision of Prof. [César Lincoln Cavalcante Mattos](https://scholar.google.com/citations?user=DCKOV4oAAAAJ&hl=en&oi=ao).
+I'm **Madson Dias**, **PhD** in Computer Science (2024) from the Federal University of Ceará (UFC), Brazil. I also hold an **MSc** degree (2017) in **Computer Science** from the Federal Institute of Ceará (IFCE), Brazil. I'm an **associate researcher** at the **Logic and Artificial Intelligence Research Group** ([LogIA](http://www.lia.ufc.br/~logia/index.en.html)) at the Department of Computer Science, UFC.
 
 
-- :seedling: At the present moment I'm learning about **normalizing  flows**, **anomaly  detection**, and **semi-supervised learning**
-- :telescope: I'm currently working with **trajectory anomaly detection** using **flow-based generative models**
-- :page_facing_up: My most recent paper: [Anomaly Detection in Trajectory Data with Normalizing Flows](https://arxiv.org/abs/2004.05958)
+- :seedling: At the present moment, I'm learning about **multi-entity time series forecasting**
+- :telescope: I'm currently working with **time series anomaly detection** using **flow-based generative models**
+- :page_facing_up: My most recent paper: [Edge AI for Internet of Medical Things: A literature review](https://www.sciencedirect.com/science/article/pii/S0045790624001307)
 - :mailbox: [Ask me](https://github.com/omadson/omadson/issues/new/choose) about **Python**, **data science**, and **machine learning**
 - :heart: Things that I like: [coffee](https://www.instagram.com/omadson/channel/), [vinyl](https://www.discogs.com/user/omadson/collection), [cycling](http://bit.ly/strava-omadson), [photography](http://bit.ly/photos-omadson), [retro games](https://retroachievements.org/user/omadson/progress?filter%5Bsystem%5D=0&filter%5Bstatus%5D=any-beaten&page%5Bnumber%5D=1) and [reading](https://www.skoob.com.br/usuario/3962191)
 - :eyes: Fun fact: I have **color blindness** and **heterochromia**
